@@ -1,0 +1,10 @@
+
+#ignore .txt
+*.txt
+# exept
+!readme.txt
+#ignore le fichier todo à la racine du projet
+/TODO
+#ignore tous les fichiers à l'intérieur de build
+build/
+#
